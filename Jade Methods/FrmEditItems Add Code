@@ -1,1 +1,8 @@
-(No code present)
+btnAdd_click(btn : Button input);
+
+vars
+	item : FrmEditItems;
+begin
+	create item transient;
+	item.showModal()
+end;
