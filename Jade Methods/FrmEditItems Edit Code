@@ -1,1 +1,13 @@
-(no code present)
+btnEdit_click(btn: Button input) updating;
+
+vars
+
+  edit : FrmEditItems;
+  
+begin
+
+  create edit transient;
+  edit.set(Catalog.firstInstance);
+  edit.showModal();
+
+end;
