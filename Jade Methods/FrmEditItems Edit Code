@@ -7,7 +7,7 @@ vars
 begin
 
   create edit transient;
-  edit.set(Catalog.firstInstance);
+  edit.setItem(Catalog.firstInstance);
   edit.showModal();
 
 end;
