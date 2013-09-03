@@ -1,1 +1,9 @@
-(insert code here)
+noValidDataInBorrowerHandler(ex : Exception) : Integer;
+
+vars
+
+begin
+	write "Please enter a valid ID in the Borrower field";
+	return Ex_Abort_Action;
+end;
+
