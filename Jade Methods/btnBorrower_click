@@ -1,1 +1,12 @@
-//No code added yet
+btnBorrower_click(btn: Button input) updating;
+
+vars
+	id : String;
+begin
+	on Exception do noValidDataInBorrowerHandler (exception);
+	
+	id := txtBorrower.text;
+	theCatalog.lendTo( id );
+	self.lblBorrower.caption := theCatalog.getLoanBorrowerDetails();
+	
+end;
