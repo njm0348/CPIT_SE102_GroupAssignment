@@ -1,1 +1,8 @@
-//Enter file contents here
+noValidDataInIssueHandler(ex : Exception) : Integer;
+
+vars
+
+begin
+	write "Please enter a valid number in the Issue field";
+	return Ex_Abort_Action;
+end;
