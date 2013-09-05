@@ -1,1 +1,8 @@
-Enter file contents here
+btnFinished_click(btn: Button input) updating;
+begin
+	if txtBorrower.String.Boolean or txtCopy.String.Boolean or lbxIssues.String.Boolean = null then
+	write "Please check you have entered your ID and accession numbers";
+	else theCatalog.finishWithoutReceipt();
+	self.unloadForm();
+  endif;
+end;
