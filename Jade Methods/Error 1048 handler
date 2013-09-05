@@ -3,6 +3,6 @@ noValidDataInIssueHandler(ex : Exception) : Integer;
 vars
 
 begin
-	write "Please enter a valid number in the Issue field";
+	write "Please enter a valid accession number into the Issue field.";
 	return Ex_Abort_Action;
 end;
