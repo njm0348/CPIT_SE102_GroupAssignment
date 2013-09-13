@@ -23,3 +23,7 @@
 //FrmReport
 
   self.btnClose.fontName    := "Calibri";
+
+
+
+/* Nick Maxwell - I have checked this */
