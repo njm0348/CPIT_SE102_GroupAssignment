@@ -1,1 +1,25 @@
-Enter file contents here.
+//Button font size will be controlled with the folowing code of which will be added to each Form's load(); 
+
+
+//FrmMain
+
+
+
+
+//FrmBrowseItems
+
+
+
+//FrmReportBorrowers
+
+
+
+//FrmReportItems
+
+
+
+//FrmEditItems
+
+
+
+//FrmLoan
