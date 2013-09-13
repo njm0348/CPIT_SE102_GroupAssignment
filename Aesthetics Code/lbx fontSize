@@ -1,22 +1,7 @@
-
-//FrmMain
-
-
-
 //FrmBrowseItems
 
-
-
-//FrmReportBorrowers
-
-
-
-//FrmReportItems
-
-
-
-//FrmEditItems
-
-
+  self.lbxBrowse.fontSize := 18;
 
 //FrmLoan
+
+  self.lbxIssues.fontSize := 18;
