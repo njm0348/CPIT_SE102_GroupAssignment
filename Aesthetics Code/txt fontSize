@@ -1,0 +1,17 @@
+//FrmReportBorrowers
+
+  self.txtBrowse.fontSize := 18;
+
+//FrmReportItems
+
+  self.txtBrowse.fontSize := 18;
+
+//FrmEditItems
+
+  self.txtTitle.fontSize := 18;
+  self.txtLocation.fontSize := 18;
+
+//FrmLoan
+
+  self.txtCopy.fontSize := 18;  
+  self.txtBorrower.fontSize := 18;
