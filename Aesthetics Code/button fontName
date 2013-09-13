@@ -9,7 +9,7 @@
   self.btnCopy.fontName     := "Calibri";
   self.btnFinished.fontName := "Calibri";
   
-//FrmBrowse
+//FrmBrowseItems
 
   self.btnAdd.fontName      := "Calibri";
   self.btnEdit.fontName     := "Calibri;
@@ -20,10 +20,13 @@
   self.btnCancel.fontName   := "Calibri";
   self.btnSave.fontName     := "Calibri";
   
-//FrmReport
+//FrmReportItems
 
   self.btnClose.fontName    := "Calibri";
 
+//FrmReportBorrowers
 
+  self.btnClose.fontName    := "Calibri";
 
 /* Nick Maxwell - I have checked this */
+/* Matt Keith-Gillon - I have checked this */
