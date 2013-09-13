@@ -1,8 +1,28 @@
-Frm* / <form> 
-
-load() updating;
+//FrmMain
 
 self.backColor := 16776960;
 
 
-/*Checked formatting and correct spelling*/
+//FrmBrowseItems
+
+self.backColor := 16776960;
+
+
+//FrmReportBorrowers
+
+self.backColor := 16776960;
+
+
+//FrmReportItems
+
+self.backColor := 16776960;
+
+
+//FrmEditItems
+
+self.backColor := 16776960;
+
+
+//FrmLoan
+
+self.backColor := 16776960;
