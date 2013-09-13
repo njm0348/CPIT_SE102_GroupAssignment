@@ -1,25 +1,24 @@
-//Button font size will be controlled with the folowing code of which will be added to each Form's load(); 
-
-
-//FrmMain
-
-
-
-
 //FrmBrowseItems
 
-
+btnAdd.fontSize := 20;
+btnEdit.fontSize := 20;
+btnClose.fontSize := 20;
 
 //FrmReportBorrowers
 
-
+btnClose.fontSize := 20;
 
 //FrmReportItems
 
-
+btnClose.fontSize := 20;
 
 //FrmEditItems
 
-
+btnSave.fontSize := 20;
+btnCancel.fontSize := 20;
 
 //FrmLoan
+
+btnBorrower.fontSize := 20;
+btnCopy.fontSize := 20;
+btnFinished.fontSize := 20;
