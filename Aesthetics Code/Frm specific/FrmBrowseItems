@@ -1,1 +1,25 @@
 //FrmBrowseItems load();
+
+  self.btnAdd.backColor := 16777215;
+  self.btnEdit.backColor := 16777215;
+  self.btnClose.backColor := 16777215;
+
+  self.btnAdd.fontBold := true;
+  self.btnEdit.fontBold := true;
+  self.btnClose.fontBold := true;
+
+  self.btnAdd.fontSize := 20;
+  self.btnEdit.fontSize := 20;
+  self.btnClose.fontSize := 20
+  
+  self.btnAdd.fontName      := "Calibri";
+  self.btnEdit.fontName     := "Calibri;
+  self.btnClose.fontName    := "Calibri";
+
+  self.caption := "Item Browser"
+  
+  self.backColor := 16776960;
+  
+  self.lbxBrowse.fontName := "Arial";
+  
+  self.lbxBrowse.fontSize := 18;
