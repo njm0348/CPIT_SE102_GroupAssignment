@@ -2,32 +2,33 @@
 //These will be placed in the child forms
 
 
-//Within FrmMain load();
+//FrmMain
 
   self.caption := "Home";
   
   
-//Within FrmLoan load();
+//FrmLoan
 
   self.caption := "Loan an Item";
 
 
-//Within FrmEditItems load();
+//FrmEditItems
 
   self.caption := "Item Editor";
   
 
-//Within FrmBrowseBorrowers load();
+//FrmBrowseBorrowers
 
   self.caption := "Known Borrowers";
   
 
-//Within FrmBrowseItems load();
+//FrmBrowseItems
 
   self.caption := "Items in the System";
   
 
-//Within FrmBrowseItems (Edit dropdown) load();
+//FrmBrowseItems
 
   self.caption := "Item Browser"
   
+/* Matt Keith-Gillon - I have checked this */
