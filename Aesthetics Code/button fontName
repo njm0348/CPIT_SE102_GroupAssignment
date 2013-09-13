@@ -3,7 +3,7 @@
 
 
 
-//FrmLoan (Loan an Item)
+//FrmLoan
 
   self.btnBorrower.fontName := "Calibri";
   self.btnCopy.fontName     := "Calibri";
