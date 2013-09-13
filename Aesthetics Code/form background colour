@@ -1,6 +1,6 @@
 //FrmMain
 
-self.backColor := 16776960;
+self.backColor := 15728640;
 
 
 //FrmBrowseItems
