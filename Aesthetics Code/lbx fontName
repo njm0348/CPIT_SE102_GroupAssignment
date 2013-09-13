@@ -1,22 +1,7 @@
-
-//FrmMain
-
-
-
 //FrmBrowseItems
 
-
-
-//FrmReportBorrowers
-
-
-
-//FrmReportItems
-
-
-
-//FrmEditItems
-
-
+  self.lbxBrowse.fontName := "Arial";
 
 //FrmLoan
+
+  self.lbxIssues.fontName := "Arial";
