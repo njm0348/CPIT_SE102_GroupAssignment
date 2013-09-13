@@ -1,1 +1,35 @@
 //FrmEditItems load();
+
+  self.btnSave.backColor := 16777215;
+  self.btnCancel.backColor := 16777215;
+  
+  self.btnSave.fontBold := true;
+  self.btnCancel.fontBold := true;
+
+  self.btnSave.fontSize := 20;
+  self.btnCancel.fontSize := 20;
+
+  self.btnCancel.fontName   := "Calibri";
+  self.btnSave.fontName     := "Calibri";
+
+  self.backColor := 16776960;
+  
+  self.caption := "Item Editor";
+  
+  self.lblLocation.backColor := 16776960;
+  self.lblTitle.backColor := 16776960;
+
+  self.lblTitle.fontItalic := true;
+  self.lblLocation.fontItalic := true;
+
+  self.lblTitle.fontName := "Calibri";
+  self.lblLocation.fontName := "Calibri";
+
+  self.lblLocation.fontSize := 20;
+  self.lblTitle.fontSize := 20;
+
+  self.txtTitle.fontSize := 18;
+  self.txtLocation.fontSize := 18;
+
+  self.txtTitle.fontName := "Arial";
+  self.txtLocation.fontName := "Arial";
