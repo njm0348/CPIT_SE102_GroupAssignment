@@ -1,1 +1,47 @@
 //FrmLoan load();
+
+  self.btnBorrower.backColor := 16777215;
+  self.btnCopy.backColor := 16777215;
+  self.btnFinished.backColor := 16777215;
+  
+  self.btnBorrower.fontBold := true;
+  self.btnCopy.fontBold := true;
+  self.btnFinished.fontBold := true;
+
+  self.btnBorrower.fontSize := 20;
+  self.btnCopy.fontSize := 20;
+  self.btnFinished.fontSize := 20;
+
+  self.btnBorrower.fontName := "Calibri";
+  self.btnCopy.fontName     := "Calibri";
+  self.btnFinished.fontName := "Calibri";
+
+  self.backColor := 16776960;
+
+  self.caption := "Loan an Item";
+
+  self.lblDate.backColor := 16776960;
+  self.lblBorrower.backColor := 16776960;
+  self.lblTime.backColor := 16776960;
+  
+  self.lblDate.fontItalic := true;
+  self.lblBorrower.fontItalic := true;
+  self.lblTime.fontItalic := true;
+
+  self.lblDate.fontName := "Calibri";
+  self.lblBorrower.fontName := "Calibri";
+  self.lblTime.fontName := "Calibri";
+
+  self.lblDate.fontSize := 20;
+  self.lblBorrower.fontSize := 20;
+  self.lblTime.fontSize := 20;
+
+  self.txtCopy.fontSize := 18;  
+  self.txtBorrower.fontSize := 18;
+  
+  self.txtBorrower.fontName := "Arial";
+  self.txtCopy.fontName := "Arial";
+
+  self.lbxIssues.fontSize := 18;
+  
+  self.lbxIssues.fontName := "Arial";
