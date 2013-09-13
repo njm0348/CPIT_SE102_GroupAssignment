@@ -1,24 +1,24 @@
 //FrmBrowseItems
 
-btnAdd.fontSize := 20;
-btnEdit.fontSize := 20;
-btnClose.fontSize := 20;
+self.btnAdd.fontSize := 20;
+self.btnEdit.fontSize := 20;
+self.btnClose.fontSize := 20;
 
 //FrmReportBorrowers
 
-btnClose.fontSize := 20;
+self.btnClose.fontSize := 20;
 
 //FrmReportItems
 
-btnClose.fontSize := 20;
+self.btnClose.fontSize := 20;
 
 //FrmEditItems
 
-btnSave.fontSize := 20;
-btnCancel.fontSize := 20;
+self.btnSave.fontSize := 20;
+self.btnCancel.fontSize := 20;
 
 //FrmLoan
 
-btnBorrower.fontSize := 20;
-btnCopy.fontSize := 20;
-btnFinished.fontSize := 20;
+self.btnBorrower.fontSize := 20;
+self.btnCopy.fontSize := 20;
+self.btnFinished.fontSize := 20;
