@@ -1,22 +1,24 @@
-
-//FrmMain
-
-
-
 //FrmBrowseItems
 
-
+btnAdd.backColor := 16777215;
+btnEdit.backColor := 16777215;
+btnClose.backColor := 16777215;
 
 //FrmReportBorrowers
 
-
+btnClose.backColor := 16777215;
 
 //FrmReportItems
 
-
+btnClose.backColor := 16777215;
 
 //FrmEditItems
 
-
+btnSave.backColor := 16777215;
+btnCancel.backColor := 16777215;
 
 //FrmLoan
+
+btnBorrower.backColor := 16777215;
+btnCopy.backColor := 16777215;
+btnFinished.backColor := 16777215;
