@@ -1,1 +1,25 @@
-Enter file contents here.
+//The following will be applied to buttons within the Library system of which will alter the font type.
+//Each section will be seperated with a comment such as this one
+
+
+
+//FrmLoan (Loan an Item)
+
+  self.btnBorrower.fontName := "Calibri";
+  self.btnCopy.fontName     := "Calibri";
+  self.btnFinished.fontName := "Calibri";
+  
+//FrmBrowse
+
+  self.btnAdd.fontName      := "Calibri";
+  self.btnEdit.fontName     := "Calibri;
+  self.btnClose.fontName    := "Calibri";
+
+//FrmEdit
+
+  self.btnCancel.fontName   := "Calibri";
+  self.btnSave.fontName     := "Calibri";
+  
+//FrmReport
+
+  self.btnClose.fontName    := "Calibri";
