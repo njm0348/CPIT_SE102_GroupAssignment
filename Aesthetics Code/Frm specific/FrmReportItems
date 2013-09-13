@@ -1,1 +1,17 @@
 //FrmReportItems load();
+
+  self.btnClose.backColor := 16777215;
+  
+  self.btnClose.fontBold := true;
+  
+  self.btnClose.fontSize := 20;
+  
+  self.btnClose.fontName    := "Calibri";
+  
+  self.backColor := 16776960;
+  
+  self.caption := "Items in the System";
+  
+  self.txtBrowse.fontSize := 18;
+  
+  self.txtBrowse.fontName := "Arial";
