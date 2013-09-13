@@ -1,13 +1,3 @@
-//FrmReportBorrowers
-
- self.lblExplain.fontName := "Calibri";
- self.lblHit2.fontName := "Calibri";
-
-//FrmReportItems
-
- self.lblExplain.fontName := "Calibri";
- self.lblHit2.fontName := "Calibri";
-
 //FrmEditItems
 
  self.lblTitle.fontName := "Calibri";
