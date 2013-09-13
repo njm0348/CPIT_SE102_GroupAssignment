@@ -1,1 +1,33 @@
-Enter file contents here.
+//Will add headings on each form, each of the following will be seperated with comment marks to indiciate their purpose. 
+//These will be placed in the child forms
+
+
+//Within FrmMain load();
+
+  self.caption := "Home";
+  
+  
+//Within FrmLoan load();
+
+  self.caption := "Loan an Item";
+
+
+//Within FrmEditItems load();
+
+  self.caption := "Item Editor";
+  
+
+//Within FrmBrowseBorrowers load();
+
+  self.caption := "Known Borrowers";
+  
+
+//Within FrmBrowseItems load();
+
+  self.caption := "Items in the System";
+  
+
+//Within FrmBrowseItems (Edit dropdown) load();
+
+  self.caption := "Item Browser"
+  
