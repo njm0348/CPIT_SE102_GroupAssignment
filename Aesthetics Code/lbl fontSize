@@ -1,22 +1,21 @@
-
-//FrmMain
-
-
-
-//FrmBrowseItems
-
-
-
 //FrmReportBorrowers
 
-
+  self.lblExplain.fontSize := 20;
+  self.lblHit2.fontSize := 20;
 
 //FrmReportItems
 
+  self.lblExplain.fontSize := 20;
+  self.lblHit2.fontSize := 20;
 
 
 //FrmEditItems
 
-
+  self.lblLocation.fontSize := 20;
+  self.lblTitle.fontSize := 20;
 
 //FrmLoan
+
+  self.lblDate.fontSize := 20;
+  self.lblBorrower.fontSize := 20;
+  self.lblTime.fontSize := 20;
