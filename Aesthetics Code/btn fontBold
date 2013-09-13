@@ -1,24 +1,28 @@
 //FrmBrowseItems
 
-btnAdd.fontBold := true;
-btnEdit.fontBold := true;
-btnClose.fontBold := true;
+self.btnAdd.fontBold := true;
+self.btnEdit.fontBold := true;
+self.btnClose.fontBold := true;
 
 //FrmReportBorrowers
 
-btnClose.fontBold := true;
+self.btnClose.fontBold := true;
 
 //FrmReportItems
 
-btnClose.fontBold := true;
+self.btnClose.fontBold := true;
 
 //FrmEditItems
 
-btnSave.fontBold := true;
-btnCancel.fontBold := true;
+self.btnSave.fontBold := true;
+self.btnCancel.fontBold := true;
 
 //FrmLoan
 
-btnBorrower.fontBold := true;
-btnCopy.fontBold := true;
-btnFinished.fontBold := true;
+self.btnBorrower.fontBold := true;
+self.btnCopy.fontBold := true;
+self.btnFinished.fontBold := true;
+
+
+
+/* Nick Maxwell - I have checked this */
