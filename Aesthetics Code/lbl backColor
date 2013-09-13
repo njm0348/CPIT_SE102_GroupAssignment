@@ -12,8 +12,3 @@
   self.lblTime.backColor := 16776960;
   
 
-//FrmReport
-
-  self.lblExplain.backColor := 16776960;
-  self.lblHit2.backColor := 16776960;
-  
