@@ -11,8 +11,4 @@
   self.lblTime.fontItalic := true;
   
   
-//FrmReport
 
-  self.lblHit2.fontItalic := true;
-  self.lblExplain.fontItalic := true;
-  
