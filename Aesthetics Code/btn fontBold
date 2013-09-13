@@ -1,24 +1,24 @@
 //FrmBrowseItems
 
-btnAdd.backColor := 16777215;
-btnEdit.backColor := 16777215;
-btnClose.backColor := 16777215;
+btnAdd.fontBold := true;
+btnEdit.fontBold := true;
+btnClose.fontBold := true;
 
 //FrmReportBorrowers
 
-btnClose.backColor := 16777215;
+btnClose.fontBold := true;
 
 //FrmReportItems
 
-btnClose.backColor := 16777215;
+btnClose.fontBold := true;
 
 //FrmEditItems
 
-btnSave.backColor := 16777215;
-btnCancel.backColor := 16777215;
+btnSave.fontBold := true;
+btnCancel.fontBold := true;
 
 //FrmLoan
 
-btnBorrower.backColor := 16777215;
-btnCopy.backColor := 16777215;
-btnFinished.backColor := 16777215;
+btnBorrower.fontBold := true;
+btnCopy.fontBold := true;
+btnFinished.fontBold := true;
