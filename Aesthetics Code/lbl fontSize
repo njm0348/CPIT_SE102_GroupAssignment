@@ -1,13 +1,3 @@
-//FrmReportBorrowers
-
-  self.lblExplain.fontSize := 20;
-  self.lblHit2.fontSize := 20;
-
-//FrmReportItems
-
-  self.lblExplain.fontSize := 20;
-  self.lblHit2.fontSize := 20;
-
 
 //FrmEditItems
 
@@ -19,3 +9,5 @@
   self.lblDate.fontSize := 20;
   self.lblBorrower.fontSize := 20;
   self.lblTime.fontSize := 20;
+  
+/* Matt Keith-Gillon - I have checked this */
